@@ -1,0 +1,14 @@
+{
+    "name": "mrdollywaggit.encode",
+    "title": "Encode",
+    "description": "A design-oriented theme that doesn't hurt your brain.",
+    "version": "0.0.1",
+    "author": "Mr. Dollywaggit",
+    "license": "MIT",
+    "theme": {
+        "file": "main.less",
+        "dark": false,
+        "addModeClass": true
+    },
+    "keywords": ["theme", "design", "clean", "simple", "light", "candy", "beautiful", "themes", "brackets"]
+}
