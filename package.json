@@ -5,6 +5,9 @@
     "version": "1.0.0.",
     "author": "Mr. Dollywaggit",
     "license": "MIT",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
     "theme": {
         "file": "main.less",
         "dark": false,
