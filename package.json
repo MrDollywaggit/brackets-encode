@@ -1,10 +1,10 @@
 {
-    "name": "mrdollywaggit.encode",
+    "name": "mrpranavgrover.encode",
     "title": "Encode",
     "description": "A design-oriented theme that doesn't hurt your brain.",
-    "version": "1.0.0",
-    "author": "Mr. Dollywaggit",
-    "homepage": "https://github.com/MrDollywaggit/brackets-encode",
+    "version": "1.0.1",
+    "author": "mrpranavgrover",
+    "homepage": "https://github.com/mrpranavgrover/brackets-encode",
     "license": "MIT",
     "engines": {
         "brackets": ">=0.42.0"
